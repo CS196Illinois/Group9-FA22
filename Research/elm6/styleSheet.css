@@ -1,14 +1,37 @@
+/* by Emma Maxwell 
+for Team Menken (group 9) 
+CS124H 
+fall 2022
+UIUC */ 
+
+/* COLORS CHEAT SHEET: 
+Background: #313131 
+Main accent: #8870b9 (light purple) 
+Dark accent: #564675 (dark purple) 
+Contrastive accent: #9aab78 (sage green) 
+*/ 
+
+/* sets main bg to grey */
 body {
     background-color: #313131;
-    text-align: left; 
 }
 
+/* sets heading color to main accent purple + bells and whistles*/ 
 heading {
     color: #8870b9; 
+    text-shadow: 3px -3px 5px #564675; 
+    font-family: verdana; 
+    text-align: center; 
+    font-weight: bold; 
+    font-size: 22px; 
 }
 
+
+/* sets up main body */ 
 p {
     color: #f6f6f6; 
-    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-family: Verdana; 
     font-size: 14px; 
+    text-align: left; 
+    line-height: 1.6em; 
 }
