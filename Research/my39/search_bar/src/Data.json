@@ -1,0 +1,722 @@
+[
+    {
+      "collaborative": false,
+      "description": "glowing street lights passing, you and me, hands intertwined tightly.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/2CAm8y03vHkzUayWanxscK"
+      },
+      "href": "https://api.spotify.com/v1/playlists/2CAm8y03vHkzUayWanxscK",
+      "id": "2CAm8y03vHkzUayWanxscK",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706c0000bebb4bac7177770e9d881497b88d",
+          "width": null
+        }
+      ],
+      "name": "late night drives with you",
+      "owner": {
+        "display_name": "jam",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/jamiedutran"
+        },
+        "href": "https://api.spotify.com/v1/users/jamiedutran",
+        "id": "jamiedutran",
+        "type": "user",
+        "uri": "spotify:user:jamiedutran"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MjM0LGUxZmU4MWE3MTYwNjNhODI5NjkyYmZiY2RlNDY0OTIwZTAzYzU4MWI=",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/2CAm8y03vHkzUayWanxscK/tracks",
+        "total": 73
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:2CAm8y03vHkzUayWanxscK"
+    },
+    {
+      "collaborative": false,
+      "description": "mix of songs from the 50s, 60s, 70s, 80s, and 90s.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/78QUksTMW5kXF3hkyOckyI"
+      },
+      "href": "https://api.spotify.com/v1/playlists/78QUksTMW5kXF3hkyOckyI",
+      "id": "78QUksTMW5kXF3hkyOckyI",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706c0000bebbbe0458821286fb1967b2b2f4",
+          "width": null
+        }
+      ],
+      "name": "old school jukebox",
+      "owner": {
+        "display_name": "jam",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/jamiedutran"
+        },
+        "href": "https://api.spotify.com/v1/users/jamiedutran",
+        "id": "jamiedutran",
+        "type": "user",
+        "uri": "spotify:user:jamiedutran"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "NTI4LDcyZjY4YmRmNmMwNWY4NTc0Yjk4MmMzMWE4YzMwOWZkNzk2MTk3OGM=",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/78QUksTMW5kXF3hkyOckyI/tracks",
+        "total": 461
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:78QUksTMW5kXF3hkyOckyI"
+    },
+    {
+      "collaborative": false,
+      "description": "whew these are songs i can imagine being in indie movies.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/0SXSB90K9tVphEAn4eXgjr"
+      },
+      "href": "https://api.spotify.com/v1/playlists/0SXSB90K9tVphEAn4eXgjr",
+      "id": "0SXSB90K9tVphEAn4eXgjr",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706c0000bebb2dadda06031b1585f739f8f7",
+          "width": null
+        }
+      ],
+      "name": "if i make indie movies' soundtracks",
+      "owner": {
+        "display_name": "jam",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/jamiedutran"
+        },
+        "href": "https://api.spotify.com/v1/users/jamiedutran",
+        "id": "jamiedutran",
+        "type": "user",
+        "uri": "spotify:user:jamiedutran"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MTIzLDI2YWFmOWQ5NzFmNDY3YzU4OGQwYzAxYzBjMTFlODBmMWNkZjQ3MGI=",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/0SXSB90K9tVphEAn4eXgjr/tracks",
+        "total": 60
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:0SXSB90K9tVphEAn4eXgjr"
+    },
+    {
+      "collaborative": false,
+      "description": "inspired by the netflix show sex education.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/0t4tIUk8Iy0hS4IaMYVCyp"
+      },
+      "href": "https://api.spotify.com/v1/playlists/0t4tIUk8Iy0hS4IaMYVCyp",
+      "id": "0t4tIUk8Iy0hS4IaMYVCyp",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706c0000bebb2065654849b8ecd72b5bd3fd",
+          "width": null
+        }
+      ],
+      "name": "\"one of them is gonna climb up on a moon for you\"",
+      "owner": {
+        "display_name": "jam",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/jamiedutran"
+        },
+        "href": "https://api.spotify.com/v1/users/jamiedutran",
+        "id": "jamiedutran",
+        "type": "user",
+        "uri": "spotify:user:jamiedutran"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "OTQsZmVjYTY1OGZhMWViMjFjYmE2M2I4OWNmMmE2OTQ1NzlkZTczMmU1NA==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/0t4tIUk8Iy0hS4IaMYVCyp/tracks",
+        "total": 74
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:0t4tIUk8Iy0hS4IaMYVCyp"
+    },
+    {
+      "collaborative": false,
+      "description": "late night talks that seems like it would go on forever, just two people alone in another world.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/7s7kzcHkJXcJHVbR7Qn19j"
+      },
+      "href": "https://api.spotify.com/v1/playlists/7s7kzcHkJXcJHVbR7Qn19j",
+      "id": "7s7kzcHkJXcJHVbR7Qn19j",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706c0000bebbc877c59fa4e0cb873931fdf7",
+          "width": null
+        }
+      ],
+      "name": "soft enough for deep talks",
+      "owner": {
+        "display_name": "jam",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/jamiedutran"
+        },
+        "href": "https://api.spotify.com/v1/users/jamiedutran",
+        "id": "jamiedutran",
+        "type": "user",
+        "uri": "spotify:user:jamiedutran"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "ODYsMDJkMzExN2JjZTBjZjMzNzYyMjUyNDE1NmQ2ZjliMjExZWJkOWZiOA==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/7s7kzcHkJXcJHVbR7Qn19j/tracks",
+        "total": 41
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:7s7kzcHkJXcJHVbR7Qn19j"
+    },
+    {
+      "collaborative": false,
+      "description": "a guide to who i am, with songs that represents me as a person.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/6HXdxFMwsf0TE7FUzNsC6v"
+      },
+      "href": "https://api.spotify.com/v1/playlists/6HXdxFMwsf0TE7FUzNsC6v",
+      "id": "6HXdxFMwsf0TE7FUzNsC6v",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706c0000bebb723a48c4fc899eb9a038c60d",
+          "width": null
+        }
+      ],
+      "name": "hi! i'm jamie!",
+      "owner": {
+        "display_name": "jam",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/jamiedutran"
+        },
+        "href": "https://api.spotify.com/v1/users/jamiedutran",
+        "id": "jamiedutran",
+        "type": "user",
+        "uri": "spotify:user:jamiedutran"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "NDg2LDhjZGFlZDQxZGEwMTZkZTdkNzZlYmM3Mzc1MzAxMDRhMjRkODFhMzc=",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/6HXdxFMwsf0TE7FUzNsC6v/tracks",
+        "total": 94
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:6HXdxFMwsf0TE7FUzNsC6v"
+    },
+    {
+      "collaborative": false,
+      "description": "hazy songs that can make you daydream.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/0mfmUXxm749X5AmX6PB9dO"
+      },
+      "href": "https://api.spotify.com/v1/playlists/0mfmUXxm749X5AmX6PB9dO",
+      "id": "0mfmUXxm749X5AmX6PB9dO",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706c0000bebb16da513426e55663da13137e",
+          "width": null
+        }
+      ],
+      "name": "baby, i'm dreamin' sleepless",
+      "owner": {
+        "display_name": "jam",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/jamiedutran"
+        },
+        "href": "https://api.spotify.com/v1/users/jamiedutran",
+        "id": "jamiedutran",
+        "type": "user",
+        "uri": "spotify:user:jamiedutran"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "NjcsMWU0Mzk0MjFiNzA0MDg1OTg1MjUyNDIzNWQ4ZjUwZDRmMmE1ZjNhZQ==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/0mfmUXxm749X5AmX6PB9dO/tracks",
+        "total": 50
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:0mfmUXxm749X5AmX6PB9dO"
+    },
+    {
+      "collaborative": false,
+      "description": "a so called make out playlist.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/6OOdSzGIuXM5BfXDUruMQD"
+      },
+      "href": "https://api.spotify.com/v1/playlists/6OOdSzGIuXM5BfXDUruMQD",
+      "id": "6OOdSzGIuXM5BfXDUruMQD",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706c0000bebb73ee15bb19dfdd23c6146c6b",
+          "width": null
+        }
+      ],
+      "name": "\"i have feelings for you\"",
+      "owner": {
+        "display_name": "jam",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/jamiedutran"
+        },
+        "href": "https://api.spotify.com/v1/users/jamiedutran",
+        "id": "jamiedutran",
+        "type": "user",
+        "uri": "spotify:user:jamiedutran"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "OTYsMGFhY2MzYTJjNjI0NmFmOTA4ZmVjMDNjZjhiOGEzNjRmNDE4ZDZiNg==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/6OOdSzGIuXM5BfXDUruMQD/tracks",
+        "total": 48
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:6OOdSzGIuXM5BfXDUruMQD"
+    },
+    {
+      "collaborative": false,
+      "description": "the striking colors of my fav genres: alternative and rock.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/5tmpheZgSX6jlRpoijcbz1"
+      },
+      "href": "https://api.spotify.com/v1/playlists/5tmpheZgSX6jlRpoijcbz1",
+      "id": "5tmpheZgSX6jlRpoijcbz1",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706c0000bebbc1dd7fc3a01b30d40be7cf0e",
+          "width": null
+        }
+      ],
+      "name": "alternative fantasy sequence",
+      "owner": {
+        "display_name": "jam",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/jamiedutran"
+        },
+        "href": "https://api.spotify.com/v1/users/jamiedutran",
+        "id": "jamiedutran",
+        "type": "user",
+        "uri": "spotify:user:jamiedutran"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "NTE5LDMyNDFmNTRmYmUyZjAwZDc4ZTgzNDExYmY1MmQ1MWYxNTc2YjUxZjk=",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/5tmpheZgSX6jlRpoijcbz1/tracks",
+        "total": 504
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:5tmpheZgSX6jlRpoijcbz1"
+    },
+    {
+      "collaborative": false,
+      "description": "and they&#x27;re in my head every time i watch the sunset.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/2GiI5LmsR9IPiwppQCBfO1"
+      },
+      "href": "https://api.spotify.com/v1/playlists/2GiI5LmsR9IPiwppQCBfO1",
+      "id": "2GiI5LmsR9IPiwppQCBfO1",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706c0000bebb33982a4688619a67c69cd3c0",
+          "width": null
+        }
+      ],
+      "name": "your eyes are colors of the sunrise",
+      "owner": {
+        "display_name": "jam",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/jamiedutran"
+        },
+        "href": "https://api.spotify.com/v1/users/jamiedutran",
+        "id": "jamiedutran",
+        "type": "user",
+        "uri": "spotify:user:jamiedutran"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "OTAsMDFjNmEwMjJkOWM2NmM0OTM0Mjk1ZDcwZWFjZTllOGIyNWFjMDJiYQ==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/2GiI5LmsR9IPiwppQCBfO1/tracks",
+        "total": 61
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:2GiI5LmsR9IPiwppQCBfO1"
+    },
+    {
+      "collaborative": false,
+      "description": "the name speaks for itself :P",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/5jemjiJFZoG3h7Uu5QucSs"
+      },
+      "href": "https://api.spotify.com/v1/playlists/5jemjiJFZoG3h7Uu5QucSs",
+      "id": "5jemjiJFZoG3h7Uu5QucSs",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706c0000bebb89b47db4afb24d5609f76342",
+          "width": null
+        }
+      ],
+      "name": "feelin' like an angsty teen skating with my girl crush during sunset :)",
+      "owner": {
+        "display_name": "jam",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/jamiedutran"
+        },
+        "href": "https://api.spotify.com/v1/users/jamiedutran",
+        "id": "jamiedutran",
+        "type": "user",
+        "uri": "spotify:user:jamiedutran"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "NzYsZTM5YmY3YTczYjczOTUyZjFkNWZlMDJlMWEyZjFiOGQ5NGY3ZTJiNw==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/5jemjiJFZoG3h7Uu5QucSs/tracks",
+        "total": 56
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:5jemjiJFZoG3h7Uu5QucSs"
+    },
+    {
+      "collaborative": false,
+      "description": "this is a wlw only event... if you&#x27;re not one then you&#x27;re not invited! &lt;3",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/1qlY72RUICBQlma8jgFyqf"
+      },
+      "href": "https://api.spotify.com/v1/playlists/1qlY72RUICBQlma8jgFyqf",
+      "id": "1qlY72RUICBQlma8jgFyqf",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706c0000bebbdcc397c2b6cc8a24294a79dd",
+          "width": null
+        }
+      ],
+      "name": "for the queer girlies <3",
+      "owner": {
+        "display_name": "jam",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/jamiedutran"
+        },
+        "href": "https://api.spotify.com/v1/users/jamiedutran",
+        "id": "jamiedutran",
+        "type": "user",
+        "uri": "spotify:user:jamiedutran"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "NjUsMTI4NTU0ZjE3YzNjYTFmOTBkMDM4YTQzN2M3OTU1OTg4MTkwMjUzOA==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/1qlY72RUICBQlma8jgFyqf/tracks",
+        "total": 53
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:1qlY72RUICBQlma8jgFyqf"
+    },
+    {
+      "collaborative": false,
+      "description": "a walk on a cold night.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/3C8tMeiT8WKozFRmw3MKge"
+      },
+      "href": "https://api.spotify.com/v1/playlists/3C8tMeiT8WKozFRmw3MKge",
+      "id": "3C8tMeiT8WKozFRmw3MKge",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706c0000bebbbd2985a17bea729bd73f06c8",
+          "width": null
+        }
+      ],
+      "name": "sweaters and stargazing",
+      "owner": {
+        "display_name": "jam",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/jamiedutran"
+        },
+        "href": "https://api.spotify.com/v1/users/jamiedutran",
+        "id": "jamiedutran",
+        "type": "user",
+        "uri": "spotify:user:jamiedutran"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "NzQsMmNkZjkzM2QwYmE4NDA0NTZmNzkxNDRmNDgwMWNiY2FiYWFjOGRkMQ==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/3C8tMeiT8WKozFRmw3MKge/tracks",
+        "total": 63
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:3C8tMeiT8WKozFRmw3MKge"
+    },
+    {
+      "collaborative": false,
+      "description": "nostalgic songs that make me wish i own a little cottage with a field of flowers in the 90s with my wife.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/20uGWndh5qhWHgGCVQ5Y6y"
+      },
+      "href": "https://api.spotify.com/v1/playlists/20uGWndh5qhWHgGCVQ5Y6y",
+      "id": "20uGWndh5qhWHgGCVQ5Y6y",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706c0000bebbdef6977bcf4ab2899a5711af",
+          "width": null
+        }
+      ],
+      "name": "cottagecore in the 90s",
+      "owner": {
+        "display_name": "jam",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/jamiedutran"
+        },
+        "href": "https://api.spotify.com/v1/users/jamiedutran",
+        "id": "jamiedutran",
+        "type": "user",
+        "uri": "spotify:user:jamiedutran"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "NDAsMTY2OWIyMzU4YjcwMTQ2YjBjMzY3NmI0Y2Y5OGFjMDg5MGFlNzJlZQ==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/20uGWndh5qhWHgGCVQ5Y6y/tracks",
+        "total": 24
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:20uGWndh5qhWHgGCVQ5Y6y"
+    },
+    {
+      "collaborative": false,
+      "description": "songs that i&#x27;d put in a cassette mixtape! :D",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/4SZHAn6iNu71Y6nRnOO8Xd"
+      },
+      "href": "https://api.spotify.com/v1/playlists/4SZHAn6iNu71Y6nRnOO8Xd",
+      "id": "4SZHAn6iNu71Y6nRnOO8Xd",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706c0000bebb6be91bdd96b400efd7dae2ae",
+          "width": null
+        }
+      ],
+      "name": "a cassette mixtape!",
+      "owner": {
+        "display_name": "jam",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/jamiedutran"
+        },
+        "href": "https://api.spotify.com/v1/users/jamiedutran",
+        "id": "jamiedutran",
+        "type": "user",
+        "uri": "spotify:user:jamiedutran"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "NjQsYTVhMDUxMThlYmU0MzJlMTQxMzJhYmZhN2ZhM2ZlNWRiZjdjNGM0MA==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/4SZHAn6iNu71Y6nRnOO8Xd/tracks",
+        "total": 37
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:4SZHAn6iNu71Y6nRnOO8Xd"
+    },
+    {
+      "collaborative": false,
+      "description": "that groovy kinda love",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/3TGAnx97ihTLhueNd4Hnjq"
+      },
+      "href": "https://api.spotify.com/v1/playlists/3TGAnx97ihTLhueNd4Hnjq",
+      "id": "3TGAnx97ihTLhueNd4Hnjq",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706c0000bebb817e12b4334c06c7024ef1c9",
+          "width": null
+        }
+      ],
+      "name": "groovy like a drive-in movie",
+      "owner": {
+        "display_name": "jam",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/jamiedutran"
+        },
+        "href": "https://api.spotify.com/v1/users/jamiedutran",
+        "id": "jamiedutran",
+        "type": "user",
+        "uri": "spotify:user:jamiedutran"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MTcwLGIzMTZiNjFhZTAxZmI0ODNhZmE3ZjRiNTliYTE2MzMyYmFhYzJiZTc=",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/3TGAnx97ihTLhueNd4Hnjq/tracks",
+        "total": 15
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:3TGAnx97ihTLhueNd4Hnjq"
+    },
+    {
+      "collaborative": false,
+      "description": "dis is rare but i&#x27;m rilly happy!!!",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/1WdtisZjJgpkiFWwrV0yDl"
+      },
+      "href": "https://api.spotify.com/v1/playlists/1WdtisZjJgpkiFWwrV0yDl",
+      "id": "1WdtisZjJgpkiFWwrV0yDl",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706c0000bebbc02abf3c47158f990b2fb984",
+          "width": null
+        }
+      ],
+      "name": "instant serotonin boost!!",
+      "owner": {
+        "display_name": "jam",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/jamiedutran"
+        },
+        "href": "https://api.spotify.com/v1/users/jamiedutran",
+        "id": "jamiedutran",
+        "type": "user",
+        "uri": "spotify:user:jamiedutran"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MTA3LDcxZDhhOTI1OWIzMGU3MjBjMGM4OGQ1M2EyMzE1ZGNiMWMzMWVlNzQ=",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/1WdtisZjJgpkiFWwrV0yDl/tracks",
+        "total": 79
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:1WdtisZjJgpkiFWwrV0yDl"
+    },
+    {
+      "collaborative": false,
+      "description": "there&#x27;s just something so special and romantic about them.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/16yTK88E4Xy1Ofox9uKXbb"
+      },
+      "href": "https://api.spotify.com/v1/playlists/16yTK88E4Xy1Ofox9uKXbb",
+      "id": "16yTK88E4Xy1Ofox9uKXbb",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706c0000bebbfda8e3366a617458db3f02cc",
+          "width": null
+        }
+      ],
+      "name": "old love songs are the best love songs",
+      "owner": {
+        "display_name": "jam",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/jamiedutran"
+        },
+        "href": "https://api.spotify.com/v1/users/jamiedutran",
+        "id": "jamiedutran",
+        "type": "user",
+        "uri": "spotify:user:jamiedutran"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "NzQsMzUzZjBmMjdkNTFiZWI3YzI2ZjkwNTNiYjMzM2FmMTY3NzI1Zjg0NA==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/16yTK88E4Xy1Ofox9uKXbb/tracks",
+        "total": 50
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:16yTK88E4Xy1Ofox9uKXbb"
+    },
+    {
+      "collaborative": false,
+      "description": "i never realized how popular synth pop still is nowadays until making this playlist. trash for 80s synth pop and is still trash for modern synth pop.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/59HCcuS6fq5lX6BLr6KFGG"
+      },
+      "href": "https://api.spotify.com/v1/playlists/59HCcuS6fq5lX6BLr6KFGG",
+      "id": "59HCcuS6fq5lX6BLr6KFGG",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706c0000bebbd040b74da29a59d99c1dbdec",
+          "width": null
+        }
+      ],
+      "name": "modern synth pop",
+      "owner": {
+        "display_name": "jam",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/jamiedutran"
+        },
+        "href": "https://api.spotify.com/v1/users/jamiedutran",
+        "id": "jamiedutran",
+        "type": "user",
+        "uri": "spotify:user:jamiedutran"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MTA2LGExMmU4MjIzYjNkOTY4MjZkMDlkOGI1YmEwMGMzZmU2YmQ3OTNhOWQ=",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/59HCcuS6fq5lX6BLr6KFGG/tracks",
+        "total": 75
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:59HCcuS6fq5lX6BLr6KFGG"
+    },
+    {
+      "collaborative": false,
+      "description": "songs that make me feeling like a bad bitch.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/4Vn0BKGAiWXF2qUpyDf1eV"
+      },
+      "href": "https://api.spotify.com/v1/playlists/4Vn0BKGAiWXF2qUpyDf1eV",
+      "id": "4Vn0BKGAiWXF2qUpyDf1eV",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706c0000bebb80935e9dfea2335a45565605",
+          "width": null
+        }
+      ],
+      "name": "bitches break hearts",
+      "owner": {
+        "display_name": "jam",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/jamiedutran"
+        },
+        "href": "https://api.spotify.com/v1/users/jamiedutran",
+        "id": "jamiedutran",
+        "type": "user",
+        "uri": "spotify:user:jamiedutran"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MTIxLDE1YjZlZjIwYjhiN2VlNjc5YTU5NDAwZGRlNTI3ZDk1MjZlZjYwNDk=",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/4Vn0BKGAiWXF2qUpyDf1eV/tracks",
+        "total": 76
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:4Vn0BKGAiWXF2qUpyDf1eV"
+    }
+]
