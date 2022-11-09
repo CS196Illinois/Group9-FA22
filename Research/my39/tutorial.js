@@ -1,3 +1,0 @@
-class Tutorial {
-    test
-}
