@@ -7,4 +7,6 @@ Team Members:
 
 Project Manager: rsoni27
 
-Project Description: [Enter Descirption]
+Project Description: 
+
+React Web App that utilizes Spotify API to access Spotify user data and recommend them suggested albums based on their listening history. 
