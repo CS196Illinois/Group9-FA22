@@ -7,7 +7,7 @@ import PlaylistData from "./Data.json";
 function App() {
   return (
     <div className="App">
-      <SearchBar placeholder="Enter an Album" data={PlaylistData} />;
+      <SearchBar placeholder="Enter an album..." data={PlaylistData} />
     </div>
   );
 }
