@@ -5,12 +5,13 @@ import SearchBar from "./Components/SearchBar";
 import PlaylistData from "./Data.json";
 import Credit from "./Credit.js";
 import Logo from "./Logo";
-import { alignProperty } from "@mui/material/styles/cssUtils";
+import SpotifyLogin from "./Components/SpotifyLogin";
 
 function App() {
   return (
     <div className="App">
       <Logo />
+      <SpotifyLogin />
       <SearchBar placeholder="Enter an album..." data={PlaylistData} />
       <Credit/>
     </div>
