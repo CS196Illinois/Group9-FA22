@@ -5,7 +5,7 @@ import SearchBar from "./Components/SearchBar";
 import PlaylistData from "./Data.json";
 import Credit from "./Credit.js";
 import Logo from "./Logo";
-import SpotifyLogin from "./Components/SpotifyLogin";
+import SpotifyLogin from "./SpotifyLogin.jsx";
 
 function App() {
   return (
